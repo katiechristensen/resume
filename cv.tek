@@ -117,7 +117,7 @@
 
 \begin{tabularx}{\linewidth}{@{} C @{}}
 \Huge{Katie Christensen} \\[7.5pt]
-{\raisebox{-0.05\height} \ Bothell, WA 98012} \\ \\
+%{\raisebox{-0.05\height} \ Bothell, WA 98012} \\ \\
 \href{https://github.com/katiechristensen}{\raisebox{-0.05\height}\faGithub\ katiechristensen} \ $|$ \ 
 \href{https://linkedin.com/in/katie-r-christensen}{\raisebox{-0.05\height}\faLinkedin\ katie-r-christensen} \ $|$ \ 
 \href{mailto:chris90@wwu.edu}{\raisebox{-0.05\height}\faEnvelope \ chris90@wwu.edu} \ $|$ \ 
@@ -138,7 +138,7 @@
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
 \textbf{Western Washington University} & \hfill Bellingham, WA \\[3.75pt]
-Bachelor of Science in Computer Science, 3.41 & \hfill Jun 2023 \\[3.75pt]
+Pre-Master's Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
 \multicolumn{2}{@{}X@{}}{Minor in Biology}  \\
 \multicolumn{2}{@{}X@{}}{President's List: Winter 2020, Fall 2020}  \\
 \end{tabularx}
@@ -151,17 +151,17 @@ Bachelor of Science in Computer Science, 3.41 & \hfill Jun 2023 \\[3.75pt]
 \section{Experience}
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{HutchResearch} & \hfill Bellingham, WA \\[3.75pt]
-\textbf{Undergraduate Research Assistant} & \hfill Sep 2022 - Present \\[3.75pt]
-
-\multicolumn{2}{@{}X@{}}{Currently working on a machine learning (deep learning) project for earth system modeling, specifically predicting climate weather patterns using diffusion models.}  \\
+\textbf{HutchResearch} & \hfill Bellingham, WA \\
+\textbf{Undergraduate Research Assistant} & \hfill Sep 2022 - Present\\
+\multicolumn{2}{@{}X@{}}{Currently working on a machine learning (deep learning) project for earth system modeling, specifically predicting climate weather patterns using diffusion models in collaboration with Pacific Northwest National Laboratory. Engaged in weekly journal clubs and status meetings.
+}
 \end{tabularx}
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{Institute for Systems Biology} & \hfill Seattle, WA \\[3.75pt]
-\textbf{Undergraduate Intern Trainee} & \hfill Jun 2022 - Sep 2022 \\[3.75pt]
+\textbf{Institute for Systems Biology} & \hfill Seattle, WA \\
+\textbf{Undergraduate Intern Trainee} & \hfill Jun 2022 - Sep 2022 \\
 
-\multicolumn{2}{@{}X@{}}{Development of a graph-based application programming interface designed to expose knowledge graphs and promote innovative analyses of biomedical questions. The source code and full documentation can be found at https://github.com/gloriachin/KG\_API.}  \\
+\multicolumn{2}{@{}X@{}}{ Development of a graph-based application programming interface designed to expose knowledge graphs and promote innovative analyses of biomedical questions. Participated in weekly journal clubs and status meetings. Source code and full documentation can be found at https://github.com/katiechristensen/KG\_API. }
 \end{tabularx}
 
 
@@ -176,38 +176,46 @@ Bachelor of Science in Computer Science, 3.41 & \hfill Jun 2023 \\[3.75pt]
 \textbf{Computer Science Mentoring Program} & \hfill Bellingham, WA \\[3.75pt]
 \textbf{Administrative Team + Active Mentor} & \hfill Sep 2021 - Present \\[3.75pt]
 
-\multicolumn{2}{@{}X@{}}{The CS Mentoring Program at Western Washington University cultivates supportive and inclusive mentoring relationships with declared CS students and undeclared students interested in pursuing any major in the CS Department. Provide mentor/mentee pairs with training and support to facilitate professional development and foster a positive growth experience for all.}  \\
+\multicolumn{2}{@{}X@{}}{The CS Mentoring Program at Western Washington University cultivates supportive and inclusive mentoring relationships with declared CS students and undeclared students interested in pursuing any major in the CS Department. We help to provide mentor/mentee pairs with training and support to facilitate professional development and foster a positive growth experience for all.}  \\
 \end{tabularx}
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
 \textbf{Association for Gender Inclusion in Computing (AGIC)} & \hfill Bellingham, WA \\[3.75pt]
 \textbf{Outreach Coordinator + Active Member} & \hfill Sep 2019 - Present \\[3.75pt]
 
-\multicolumn{2}{@{}X@{}}{Computer Science Department club at Western Washington University.}  \\
+\multicolumn{2}{@{}X@{}}{Computer Science Department club at Western Washington University. The AGIC builds an empowering environment for all people in a gender minority in computer science by providing opportunities for community, networking, professional development, and leadership. }  \\
 \end{tabularx}
 
+%\begin{tabularx}{\linewidth}{ @{}l r@{} }
+%\textbf{Society for Women Engineers (SWE)} & \hfill Bellingham, WA \\[3.75pt]
+%\textbf{Active Member} & \hfill Sep 2022 - Present \\[3.75pt]
+
+%\multicolumn{2}{@{}X@{}}{Engineering Department club at Western Washington University.}  \\
+%\end{tabularx}
+
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{Society for Women Engineers (SWE)} & \hfill Bellingham, WA \\[3.75pt]
-\textbf{Active Member} & \hfill Sep 2022 - Present \\[3.75pt]
 
-\multicolumn{2}{@{}X@{}}{Engineering Department club at Western Washington University.}  \\
-\end{tabularx}
+\textbf{Howard Hughes Medical Institute AEES Program} & \hfill Bellingham, WA \\[3.75pt]
+%\textbf{Advancing Excellence and Equity in Science Program} & \hfill  \\[3.75pt]
+\textbf{Select Science Student ($S^3$)} & \hfill Awarded 2019 \\[3.75pt]
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{Whatcom Community College Women's Soccer} & \hfill Bellingham, WA \\[3.75pt]
-\textbf{Student-Athlete} & \hfill Sep 2020 - Jun 2021 \\[3.75pt]
-
-\multicolumn{2}{@{}X@{}}{NWAC student-athlete for Whatcom Community College women's soccer team.}  \\
+\multicolumn{2}{@{}X@{}}{The Advancing Excellence and Equity in Science (AEES) program delivers a comprehensive introduction to major issues in science with an emphasis on quantitative analysis of data. The program is supported by a Howard Hughes Medical Institute Inclusive Excellence (HHMI IE) grant that is aimed at increasing the numbers of under-represented minorities, first-generation students, and women in majors in the natural sciences.}  \\
 \end{tabularx}
 
 %----------------------------------------------------------------------------------------
 %	PUBLICATIONS
 %----------------------------------------------------------------------------------------
-\section{Publications}
-\begin{refsection}[citations.bib]
-\nocite{*}
-\printbibliography[heading=none]
-\end{refsection}
+%\section{Publications}
+%\begin{refsection}[citations.bib]
+%\nocite{*}
+%\printbibliography[heading=none]
+%\end{refsection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+\section{Presentations}
+\textbf{Christensen K.}, Qin G. API Development Using a Graph Database to Expose Knowledge Graphs. Poster presented at: Institute for Systems Biology; July 2022; Seattle, WA.
 
 %----------------------------------------------------------------------------------------
 %	SKILLS
@@ -219,7 +227,7 @@ Bachelor of Science in Computer Science, 3.41 & \hfill Jun 2023 \\[3.75pt]
 %\end{tabularx}
 
 \begin{tabularx}{\linewidth}{@{}l X@{}}
-Python $\>$ $\>$ Java $\>$ $\>$ C $\>$ $\>$ SQL $\>$ $\>$ MySQL $\>$ $\>$ Cypher $\>$ $\>$ Neo4j $\>$ $\>$ FastAPI $\>$ $\>$ DBMS $\>$ $\>$ LaTeX $\>$ $\>$ HTML5 \\
+Python $\>$ $\>$ Java $\>$ $\>$ C $\>$ $\>$ C\# $\>$ $\>$ SQL $\>$ $\>$ MySQL $\>$ $\>$ Cypher $\>$ $\>$ Neo4j $\>$ $\>$ FastAPI $\>$ $\>$ DBMS $\>$ $\>$ LaTeX $\>$ $\>$ HTML5 \\
 \end{tabularx}
 
 \vfill
