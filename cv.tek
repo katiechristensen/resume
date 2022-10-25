@@ -138,7 +138,7 @@
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
 \textbf{Western Washington University} & \hfill Bellingham, WA \\[3.75pt]
-Pre-Master's Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
+Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
 \multicolumn{2}{@{}X@{}}{Minor in Biology}  \\
 \multicolumn{2}{@{}X@{}}{President's List: Winter 2020, Fall 2020}  \\
 \end{tabularx}
@@ -153,7 +153,7 @@ Pre-Master's Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
 \textbf{HutchResearch} & \hfill Bellingham, WA \\
 \textbf{Undergraduate Research Assistant} & \hfill Sep 2022 - Present\\
-\multicolumn{2}{@{}X@{}}{Currently working on a machine learning (deep learning) project for earth system modeling, specifically predicting climate weather patterns using diffusion models in collaboration with Pacific Northwest National Laboratory. Engaged in weekly journal clubs and status meetings.
+\multicolumn{2}{@{}X@{}}{Currently working on a machine learning (deep learning) project for earth system modeling, specifically predicting climate patterns using diffusion models in collaboration with Pacific Northwest National Laboratory. Participation in weekly journal clubs and status meetings.
 }
 \end{tabularx}
 
@@ -161,7 +161,7 @@ Pre-Master's Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[
 \textbf{Institute for Systems Biology} & \hfill Seattle, WA \\
 \textbf{Undergraduate Intern Trainee} & \hfill Jun 2022 - Sep 2022 \\
 
-\multicolumn{2}{@{}X@{}}{ Development of a graph-based application programming interface designed to expose knowledge graphs and promote innovative analyses of biomedical questions. Participated in weekly journal clubs and status meetings. Source code and full documentation can be found at https://github.com/katiechristensen/KG\_API. }
+\multicolumn{2}{@{}X@{}}{Development of a graph-based application programming interface designed to expose knowledge graphs and promote innovative analyses of biomedical questions. Attended weekly journal clubs and status meetings and presented my work in a poster session. Source code and full documentation can be found at https://github.com/katiechristensen/KG\_API. }
 \end{tabularx}
 
 
