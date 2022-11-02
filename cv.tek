@@ -78,8 +78,8 @@
 
 %CV Sections inspired by: 
 %http://stefano.italians.nl/archives/26
-\titleformat{\section}{\Medium\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{10pt}{10pt}
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{5pt}
 
 %for publications
 \usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
@@ -120,7 +120,7 @@
 %{\raisebox{-0.05\height} \ Bothell, WA 98012} \\ \\
 \href{https://github.com/katiechristensen}{\raisebox{-0.05\height}\faGithub\ katiechristensen} \ $|$ \ 
 \href{https://linkedin.com/in/katie-r-christensen}{\raisebox{-0.05\height}\faLinkedin\ katie-r-christensen} \ $|$ \ 
-\href{mailto:chris90@wwu.edu}{\raisebox{-0.05\height}\faEnvelope \ chris90@wwu.edu} \ $|$ \ 
+\href{mailto:christensen.katie00@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ christensen.katie00@gmail.com} \ $|$ \ 
 \href{tel:+14252995511}{\raisebox{-0.05\height}\faPhone \ 425-299-5511} \\
 \end{tabularx}
 
@@ -137,6 +137,8 @@
 \section{Education}
 
 \begin{tabularx}{\linewidth}{ @{}l r@{} }
+%\textbf{Western Washington University} & \hfill Bellingham, WA \\[3.75pt]
+%Master of Science in Computer Science & \hfill Expected: Sep 2023 - Jun 2024 \\[3.75pt]
 \textbf{Western Washington University} & \hfill Bellingham, WA \\[3.75pt]
 Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
 \multicolumn{2}{@{}X@{}}{Minor in Biology}  \\
@@ -183,7 +185,7 @@ Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
 \textbf{Association for Gender Inclusion in Computing (AGIC)} & \hfill Bellingham, WA \\[3.75pt]
 \textbf{Outreach Coordinator + Active Member} & \hfill Sep 2019 - Present \\[3.75pt]
 
-\multicolumn{2}{@{}X@{}}{Computer Science Department club at Western Washington University. The AGIC builds an empowering environment for all people in a gender minority in computer science by providing opportunities for community, networking, professional development, and leadership. }  \\
+\multicolumn{2}{@{}X@{}}{Computer Science Department club at Western Washington University. The AGIC builds an empowering environment for all people in a gender minority in computer science by providing opportunities for community, networking, professional development, and leadership. The AGIC is a Girls Who Code College Loop. }  \\
 \end{tabularx}
 
 %\begin{tabularx}{\linewidth}{ @{}l r@{} }
@@ -227,7 +229,7 @@ Bachelor of Science in Computer Science, 3.42 & \hfill Jun 2023 \\[3.75pt]
 %\end{tabularx}
 
 \begin{tabularx}{\linewidth}{@{}l X@{}}
-Python $\>$ $\>$ Java $\>$ $\>$ C $\>$ $\>$ C\# $\>$ $\>$ SQL $\>$ $\>$ MySQL $\>$ $\>$ Cypher $\>$ $\>$ Neo4j $\>$ $\>$ FastAPI $\>$ $\>$ DBMS $\>$ $\>$ LaTeX $\>$ $\>$ HTML5 \\
+C $\>$ $\>$ C\# $\>$ $\>$ Cypher $\>$ $\>$ DBMS $\>$ $\>$ FastAPI $\>$ $\>$ HTML5 $\>$ $\>$ Java $\>$ $\>$ LaTeX $\>$ $\>$ MySQL $\>$ $\>$ Neo4j $\>$ $\>$ Python $\>$ $\>$ SQL \\
 \end{tabularx}
 
 \vfill
